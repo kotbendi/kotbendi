@@ -27,7 +27,6 @@
   
   <!-- 🔐 Reverse Engineering & Security -->
   <img width="12" />
-  <img width="12" />
   
   <!-- 🎯 Custom Icons for RE Tools -->
   <img width="12" />
