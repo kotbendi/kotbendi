@@ -27,17 +27,11 @@
   
   <!-- 🔐 Reverse Engineering & Security -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   
   <!-- 🎯 Custom Icons for RE Tools -->
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/hexagonal.png" height="40" alt="hex-rays logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/binary-file.png" height="40" alt="binary analysis logo"  />
   <img width="12" />
