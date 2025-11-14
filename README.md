@@ -53,10 +53,4 @@
 </div>
 
 ###
-# 🎯 Currently Working On
-<div align="left">
-  <img src="https://img.shields.io/badge/Low--Level_Programming-🔍-red?style=flat-square" alt="Low-Level" />
-  <img src="https://img.shields.io/badge/Game_Hacking-🎮-blue?style=flat-square" alt="Game Hacking" />
-  <img src="https://img.shields.io/badge/System_Programming-⚙️-green?style=flat-square" alt="System Programming" />
-  <img src="https://img.shields.io/badge/Memory_Editing-💾-orange?style=flat-square" alt="Memory Editing" />
-</div>
+
