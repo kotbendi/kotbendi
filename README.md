@@ -42,7 +42,7 @@
 # 🔧 Tools & Skills
 <div align="left">
   <!-- 🛡️ Security & RE -->
-  <img src="https://img.shields.io/badge/IDA_Pro-Professional-blue?style=for-the-badge&logo=hex-rays&logoColor=white" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/IDA_Pro-blue?style=for-the-badge&logo=hex-rays&logoColor=white" alt="IDA Pro" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-Expert-red?style=for-the-badge&logo=radare&logoColor=white" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/Malware_Analysis-Advanced-orange?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis" />
   <img src="https://img.shields.io/badge/Windows_API-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows API" />
@@ -50,7 +50,6 @@
   <!-- 💻 Development -->
   <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-Scripting-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </div>
 
