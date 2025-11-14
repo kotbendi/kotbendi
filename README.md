@@ -1,11 +1,11 @@
-# 📊Stats
+# 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kotbendi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kotbendi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-# 🛠Technologies
+# 🛠 Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -24,6 +24,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  
+  <!-- 🔐 Reverse Engineering & Security -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  
+  <!-- 🎯 Custom Icons for RE Tools -->
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/hexagonal.png" height="40" alt="hex-rays logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/binary-file.png" height="40" alt="binary analysis logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/processor.png" height="40" alt="assembly logo"  />
 </div>
 
 ###
+# 🔧 Tools & Skills
+<div align="left">
+  <!-- 🛡️ Security & RE -->
+  <img src="https://img.shields.io/badge/IDA_Pro-Professional-blue?style=for-the-badge&logo=hex-rays&logoColor=white" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-Expert-red?style=for-the-badge&logo=radare&logoColor=white" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Malware_Analysis-Advanced-orange?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis" />
+  <img src="https://img.shields.io/badge/Windows_API-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows API" />
+  
+  <!-- 💻 Development -->
+  <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-Scripting-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</div>
+
+###
+# 🎯 Currently Working On
+<div align="left">
+  <img src="https://img.shields.io/badge/Low--Level_Programming-🔍-red?style=flat-square" alt="Low-Level" />
+  <img src="https://img.shields.io/badge/Game_Hacking-🎮-blue?style=flat-square" alt="Game Hacking" />
+  <img src="https://img.shields.io/badge/System_Programming-⚙️-green?style=flat-square" alt="System Programming" />
+  <img src="https://img.shields.io/badge/Memory_Editing-💾-orange?style=flat-square" alt="Memory Editing" />
+</div>
