@@ -1,6 +1,7 @@
 # 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kotbendi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://camo.githubusercontent.com/4622ac06d4b9bc18ed7e2cb06a50b065396ca51d8b973dd0d568612297f00d05/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6a62656e64656e26" height="150" alt="custom graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kotbendi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"
 </div>
 
