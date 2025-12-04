@@ -13,13 +13,3 @@
 
 ---
 
-# 📈 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=kotbendi&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-# 🔧 Projects / Highlights
-- **ElectroCalc** — Interactive electronics calculator (Voltage, Resistance, Antenna frequency)  
-- **CC1101 experiments** — Radio modules & SDR projects  
-- **Arch Linux scripts** — Installation & setup automation  
-
