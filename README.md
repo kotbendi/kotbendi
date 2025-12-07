@@ -5,7 +5,9 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kotbendi.kotbendi&"  />
+</div>
 
 ---
 
