@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kotbendi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kotbendi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kotbendi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotbendi&theme={tokyonight})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotbendi&theme=zenburn)
 
 
 ---
