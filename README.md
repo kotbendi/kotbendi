@@ -31,6 +31,11 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=kotbendi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kotbendi&theme=dark&hide_border=false)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotbendi&theme=zenburn)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kotbendi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kotbendi&theme=dark&hide_border=false" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotbendi&theme=zenburn" />
+</div>
+
