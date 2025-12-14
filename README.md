@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">📊 GitHub Stats:</p>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 ###
 
