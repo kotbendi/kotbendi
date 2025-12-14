@@ -1,4 +1,4 @@
-<p align="center">💻 Work with:</p>
+<h2 align="center">💻 Work with:</h2>
 
 ###
 
