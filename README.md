@@ -15,14 +15,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 <h2 align="center">🔗 Social networks:</h2>
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/qmdu8WR6)
-###
+
+<div align="center">
+  <a href="https://discord.gg/qmdu8WR6" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"
+         alt="Discord badge" />
+  </a>
+</div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
@@ -40,4 +45,5 @@
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotbendi&theme=zenburn" />
 </div>
+
 
