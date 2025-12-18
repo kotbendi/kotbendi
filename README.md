@@ -28,8 +28,8 @@
          alt="Discord badge" />
   </a>
   <a href="https://t.me/bobnome" target="_blank">
-    <img src="https://img.shields.io/badge/Account%20в-26A5E4?logo=telegram&logoColor=white"
-         alt="Telegram badge" />
+    <img src="https://img.shields.io/badge/Telegram%20Account-26A5E4?logo=telegram&logoColor=white"
+     alt="Telegram Account badge" />
   </a>
 </div>
 
