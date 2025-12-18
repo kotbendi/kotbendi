@@ -27,6 +27,10 @@
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"
          alt="Discord badge" />
   </a>
+  <a href="https://t.me/bobnome" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-26A5E4?logo=telegram&logoColor=white"
+         alt="Telegram badge" />
+  </a>
 </div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
