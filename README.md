@@ -43,6 +43,15 @@
 </div>
 
 ###
+## Star History
+
+<a href="https://www.star-history.com/#Mozilla-Ocho/llamafile&kotbendi/windows.h-on-linux&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Mozilla-Ocho/llamafile,kotbendi/windows.h-on-linux&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Mozilla-Ocho/llamafile,kotbendi/windows.h-on-linux&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Mozilla-Ocho/llamafile,kotbendi/windows.h-on-linux&type=date&legend=top-left" />
+ </picture>
+</a>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kotbendi&theme=dark&hide_border=false" />
