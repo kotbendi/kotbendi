@@ -1,5 +1,5 @@
 <h2 align="center">💻 Work with:</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotbendi)](https://github.com/kotbendi)
+
 ###
 
 <div align="center">
