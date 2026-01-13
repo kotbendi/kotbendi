@@ -23,7 +23,7 @@
 <h2 align="center">🔗 Social networks:</h2>
 
 <div align="center">
-  <a href="https://discord.gg/5tVKRYeh" target="_blank">
+  <a href="https://discord.gg/w7JgfTAf" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"
          alt="Discord badge" />
   </a>
